@@ -11,7 +11,7 @@ const firebaseConfig = {
     projectId: "genious-car-services-32e40",
     storageBucket: "genious-car-services-32e40.appspot.com",
     messagingSenderId: "688771050222",
-    appId: "1:688771050222:web:4deee610f4e1b7976d21ff"
+    appId: "1:688771050222:web:4deee610f4e1b7976d21ff",
 };
 
 // Initialize Firebase
